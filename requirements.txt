@@ -1,0 +1,7 @@
+gliner
+torch
+pandas
+spacy>=3.7
+tqdm
+ipython
+jupyter
